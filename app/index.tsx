@@ -1,7 +1,7 @@
 import { Button } from "@/src/components/ui/Button";
+import { router } from "expo-router";
 import { Text } from "react-native";
 import { SafeAreaView } from "react-native-safe-area-context";
-import { router } from "expo-router";
 
 export default function Index() {
 
